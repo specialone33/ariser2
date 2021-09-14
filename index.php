@@ -99,5 +99,6 @@
 //print("\n\nJSON received:\n");
 //print($return);
 //print("\n");
+echo 'test';
 ?>
 
